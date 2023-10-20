@@ -1,3 +1,5 @@
-# Example Template for SPA1
+# IXXN221 WebDesign
 
-These are some basic elements to help you out with SPA1. Hit the clone or download button to get it as a zip. 
+Eryka Tommy
+Blog
+sID : 300611594
